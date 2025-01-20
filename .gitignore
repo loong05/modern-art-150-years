@@ -1,0 +1,9 @@
+node_modules/
+.temp
+.cache
+
+docs/.vitepress/cache/
+
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
