@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/modern-art-150-years/',
   title: "《现代艺术 150 年：一个未完成的故事》提及作品图集",
   lang: 'zh-CN',
   themeConfig: {
